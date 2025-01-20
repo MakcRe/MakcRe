@@ -37,4 +37,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-[![snake](https://raw.githubusercontent.com/MakcRe/MakcRe/assets/github-snake.svg)](https://raw.githubusercontent.com/MakcRe/MakcRe/assets/github-snake.svg)
+[![snake](https://raw.githubusercontent.com/MakcRe/MakcRe/refs/heads/gh-pages/github-snake.svg)](https://raw.githubusercontent.com/MakcRe/MakcRe/refs/heads/gh-pages/github-snake.svg)
